@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Gadhiya</h1>
-<h3 align="center">Hello there, I'm Manav an Aspiring Game Developer/Designer. I am also interested in Backend Development. I have made a few games in Pygame before and I'm learning Godot and Unity Engine now to explore the field of Game Development.</h3>
+<h3 align="center">Hello there, I'm Manav, I like to Build things. Currently Exploring Backend Development and Blender.</h3>
 
 - 📫 How to reach me **manav18gadhiya@gmail.com**
 
