@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **manav18gadhiya@gmail.com**
 
-- ⚡ Fun fact **I**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heyyymanav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyyymanav" height="30" width="40" /></a>
