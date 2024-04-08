@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Gadhiya</h1>
-<h3 align="center">I like to Build stuff. Currently exploring Backend Development.</h3>
+<h3 align="center">I like to Build stuff. Currently exploring Backend Development and Web3.</h3>
 
 - 🌱 I’m currently learning **JavaScript, Node.js**
 
