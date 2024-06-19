@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Google Meet Clone, RST - A Word Game<br>🤝 I’m looking for help with Frontend<br>🌱 I’m currently learning Backend Development and Web3<br>💬 Ask me about Video Games and Cricket<br>⚡ Fun fact: Facts are only fun when they are not about you
+🔭 I’m currently working on Looking for Ideas...<br>🤝 I’m looking for help with Frontend<br>🌱 I’m currently learning Backend Development and Web3<br>💬 Ask me about Video Games and Cricket<br>⚡ Fun fact: Facts are only fun when they are not about you
 
 
 ## 🌐 Socials:
