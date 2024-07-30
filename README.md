@@ -11,4 +11,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xRadioAc7iv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRadioAc7iv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![roadmap.sh](https://roadmap.sh/card/tall/65322079b5d7a4eb01e816d1?variant=dark&roadmaps=backend%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
