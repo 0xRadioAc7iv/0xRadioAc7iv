@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Myself<br>🤝 I’m looking for help with Frontend/Design<br>🌱 I’m currently learning GraphQL<br>💬 Ask me about Backend & Blockchain stuff<br>⚡ Fun fact: Facts are fun when they are not about you
+🔭 I’m currently working on Mock Data Generator<br>🤝 I’m looking for Backend Internships<br>🌱 I’m currently learning Webhooks & AWS<br>💬 Ask me about Backend & Blockchains<br>⚡ Fun fact: Facts are fun when they are not about you
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/manavgadhiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manavgadhiya/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/0xRadioAc7iv) 
