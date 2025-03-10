@@ -1,7 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on Rate Limiter<br>🤝 I’m looking for Backend Internships<br>🌱 I’m currently learning Databases<br>💬 Ask me about Backend & Blockchains<br>⚡ Fun fact: Facts are fun when they are not about you
+Hey! I'm Manav. I'm a **Backend Engineer** mastering the art of backend systems.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xRadioAc7iv&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xRadioAc7iv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRadioAc7iv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm currently diving deep into **Go**, **Databases** & **Distributed Systems** and building a **Distributed Rendering System**.
+
+### Check out some of my recent projects:
+- [Rate Limiting Library](https://www.npmjs.com/package/@radioac7iv/rate-limiter)
+- [Mock Data Generator](https://mock-data-generator-mu.vercel.app/)
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/manavgadhiya/) | [Twitter](https://x.com/0xRadioAc7iv)
