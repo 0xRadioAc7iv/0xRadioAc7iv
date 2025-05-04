@@ -1,6 +1,6 @@
 Hey! I'm Manav. I'm a **Backend Engineer** mastering the art of backend systems.
 
-I'm currently diving deep into **Go**, **Databases** & **Distributed Systems** and building a **Distributed Rendering System**.
+I'm currently diving deep into **Typescript** & **Redis**.
 
 ### Check out some of my recent projects:
 - [Rate Limiting Library](https://www.npmjs.com/package/@radioac7iv/rate-limiter)
