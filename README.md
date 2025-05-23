@@ -5,5 +5,6 @@ I'm currently diving deep into **Typescript** & **Redis**.
 ### Check out some of my recent projects:
 - [Rate Limiting Library](https://www.npmjs.com/package/@radioac7iv/rate-limiter)
 - [Mock Data Generator](https://mock-data-generator-mu.vercel.app/)
+- [RPC Aggregator](https://solrpc.vercel.app/)
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/manavgadhiya/) | [Twitter](https://x.com/0xRadioAc7iv)
