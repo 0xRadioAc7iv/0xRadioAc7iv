@@ -1,6 +1,6 @@
 Hey! I'm Manav. I'm a **Backend Engineer**. I love breaking prod... uh, I mean building stuff.
 
-I'm currently diving deep into **AWS**.
+I'm currently diving deep into **AWS** & **Python**.
 
 ### Check out some of my projects:
 - [ZeroDeploy](https://zerodeploy.xyz) (WIP)
