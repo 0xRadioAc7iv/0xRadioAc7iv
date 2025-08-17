@@ -1,9 +1,9 @@
 Hey! I'm Manav. I'm a **Backend Engineer**. I love breaking prod... uh, I mean building stuff.
 
-I'm currently diving deep into **AWS** & **Python**.
+I'm currently diving deep into **AWS**, **Auth** & **Websockets**.
 
 ### Check out some of my projects:
-- [ZeroDeploy](https://zerodeploy.xyz) (WIP)
+- [ZeroDeploy](https://zerodeploy.xyz)
 - [RPC Aggregator](https://solrpc.vercel.app/)
 - [Rate Limiting Library](https://www.npmjs.com/package/@radioac7iv/rate-limiter)
 - [Mock Data Generator](https://mock-data-generator-mu.vercel.app/)
