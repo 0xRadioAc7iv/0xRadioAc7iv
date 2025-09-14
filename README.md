@@ -5,10 +5,10 @@ I'm currently diving deep into **AWS** & **Databases**
 
 ---
 
-### 🏢 Products I'm Working On
-(Freelance & Work Projects)
+### 🏢 Products I've Worked/Working On (Freelance & Work)
 
-- [Predictify](https://t.me/Predictify_bot) → Telegram Bot for Trading on Polymarket.
+- [Predictify](https://t.me/Predictify_bot) → Telegram Bot for Trading on Polymarket. (500+ Users)
+<!-- - [SendIN](https://sendin.app) -> Transfer Money from the US to India with no hassle -->
 
 ---
 
@@ -21,4 +21,4 @@ I'm currently diving deep into **AWS** & **Databases**
 
 ---
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/manav/) | [Twitter](https://x.com/0xRadioAc7iv)
+📫 Let's connect: [Email](mailto:manav18gadhiya@gmail.com)
