@@ -7,7 +7,7 @@ I'm currently diving deep into **AWS** & **Databases**
 
 ### 🏢 Products I've Worked/Working On (Freelance & Work)
 
-- [Predictify](https://t.me/Predictify_bot) → Telegram Bot for Trading on Polymarket. (500+ Users)
+- [Predictify](https://t.me/Predictify_bot) → Telegram Bot for Trading on Polymarket. (800+ Users)
 <!-- - [SendIN](https://sendin.app) -> Transfer Money from the US to India with no hassle -->
 
 ---
