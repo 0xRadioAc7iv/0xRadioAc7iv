@@ -15,6 +15,7 @@ Backend & Infrastructure Engineer focused on building core systems and real-time
 
 ## Projects
 
+- [TOTP Service](https://github.com/0xRadioAc7iv/totp-service) – Standalone Time-based One-Time Password (TOTP) 2FA service implementing RFC 6238, featuring envelope encryption (AWS KMS) and replay protection.
 - [Authoritative Game Server](https://github.com/0xRadioAc7iv/game-server) – Tick-based, real-time authoritative multiplayer server in Go exploring UDP networking, simulation loops, and server-side state management.
 - [Bitcask](https://github.com/0xRadioAc7iv/go-bitcask) – Go implementation of the Bitcask key–value storage engine, inspired by Basho’s Riak design, featuring append-only storage and compaction.
 - [Write-Ahead Log](https://github.com/0xRadioAc7iv/wal) – WAL implementation in Go exploring durability guarantees, crash recovery, and sequential disk writes.
